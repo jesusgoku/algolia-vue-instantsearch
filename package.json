@@ -9,7 +9,8 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "vue": "^2.5.22"
+    "vue": "^2.5.22",
+    "vue-instantsearch": "^1.7.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.1",
